@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>AI Career Guidance System</title>
+  <link rel="stylesheet" href="style.css">
+
+  <!-- Libraries -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/three@0.152.2/build/three.min.js"></script>
+</head>
+<body>
+
+<!-- FLOATING AI ASSISTANT -->
+<div id="aiAssistant" onclick="startVoice()">🎤 AI</div>
+
+<!-- 3D BACKGROUND -->
+<canvas id="bg3d"></canvas>
+
+<h1 class="title">AI Career Guidance Platform</h1>
+
+<button onclick="startTest()">Start Assessment</button>
+
+<div id="questionBox"></div>
+
+<canvas id="careerChart"></canvas>
+
+<script src="threeScene.js"></script>
+<script src="voice.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="data.js"></script>   <!-- MUST be before script.js -->
+<script src="script.js"></script>
+</body>
+</html>

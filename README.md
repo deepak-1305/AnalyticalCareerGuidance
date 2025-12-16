@@ -1,2 +1,2 @@
-# AnalyticalCareerGuidance
-The Web-Based Career Guidance System uses psychometric analysis to help users identify suitable career paths. It presents 20 questions sequentially, analyzes user responses, and evaluates career suitability across multiple domains.Results are displayed through an interactive bar chart for easy understanding and effective decision-making.
+# SstudentCareerGuidance
+I'm happpy to announce that i've created my first ever repositry for a project that i have been done for my college mini project and please let us your review for my future enhancement

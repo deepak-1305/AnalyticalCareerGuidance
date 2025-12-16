@@ -1,0 +1,22 @@
+const questions = [
+    { text:"I enjoy solving logical problems", tags:["tech","analysis"] },
+    { text:"I like helping people with their problems", tags:["health"] },
+    { text:"Technology fascinates me", tags:["tech"] },
+    { text:"I enjoy creative activities", tags:["creative"] },
+    { text:"I like working with numbers", tags:["analysis"] },
+    { text:"I am confident speaking publicly", tags:["business"] },
+    { text:"I like planning and organizing", tags:["business"] },
+    { text:"I enjoy hands-on practical work", tags:["tech"] },
+    { text:"I am interested in scientific research", tags:["analysis"] },
+    { text:"I enjoy teaching others", tags:["health","business"] },
+    { text:"Entrepreneurship excites me", tags:["business"] },
+    { text:"I work well in teams", tags:["business","health"] },
+    { text:"I prefer independent work", tags:["analysis"] },
+    { text:"Healthcare careers interest me", tags:["health"] },
+    { text:"I like designing or building things", tags:["creative","tech"] },
+    { text:"I enjoy deep analysis", tags:["analysis"] },
+    { text:"Marketing and branding interest me", tags:["business","creative"] },
+    { text:"Law and justice interest me", tags:["analysis","business"] },
+    { text:"Research based work excites me", tags:["analysis"] },
+    { text:"I love learning new skills", tags:["tech","creative"] }
+];
